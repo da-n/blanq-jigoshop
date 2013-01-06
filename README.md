@@ -2,8 +2,7 @@
 
 Plug-in component for the [Blanq](https://github.com/da-n/blanq) WordPress theme. Improves integration with [Jigoshop](http://jigoshop.com/), "a WordPress eCommerce plugin that works".
 
-Installation
-===========
+## Installation
 
 Method 1
 
@@ -17,24 +16,20 @@ Method 2
 2. Upload the zip to `wp-content/plugins/`.
 3. Activate.
 
-Usage
-===========
+## Usage
 
 Coming soon.
 
-Acknowledgments
-===========
+## Acknowledgments
 
 * [Extended Walker class](https://gist.github.com/1597994)
 * [scbFramework](https://github.com/scribu/wp-scb-framework)
 
-Credits
-===========
+## Credits
 
 This plugin is built and maintained by [Daniel Davidson](https://github.com/da-n/)
 
-Changelog
-===========
+## Changelog
 
 ### 1.0
 * Initial release
